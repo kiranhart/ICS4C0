@@ -4,7 +4,7 @@ public class Factorial {
 	//Store the number passed by constructor for later use
 	private int number;
 	
-	//The only constructor will take in a double value, and will f
+	//The only constructor will take in a int value
 	public Factorial(int number) {
 		//Assign the number variable to the number passed through the constructor
 		this.number = number;
